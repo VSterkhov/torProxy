@@ -1,0 +1,11 @@
+DataDirectory c:\projects\torProxy\tor-win64-0.4.0.5\Data\Tor
+GeoIPFile C:\projects\torProxy\tor-win64-0.4.0.5\Data\Tor\geoip
+GeoIPv6File C:\projects\torProxy\tor-win64-0.4.0.5\Data\Tor\geoip6
+
+#Проводить меньше операций с диском
+AvoidDiskWrites 1
+
+#Локальный интерфейс и порт на котором будет слушать запросы SOCKS прокси
+#Можно указать несколько вхождений для разных интерфейсов и портов
+#SocksPort 192.168.10.10:9150
+SocksPort 127.0.0.1:9150

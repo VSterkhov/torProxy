@@ -1,0 +1,84 @@
+# Tor state file last generated on 2019-08-14 00:05:19 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=82D544A72A107E4192A3CA1D649A696EB1FD02A5 nickname=eunyeunrouting sampled_on=2019-08-10T10:38:55 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=16672A88338BD011B1CAAD8940FBCB09BD20A88E nickname=Torshammer3 sampled_on=2019-08-03T04:03:28 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=3C79699D4FBC37DE1A212D5033B56DAE079AC0EF nickname=bauruine203 sampled_on=2019-08-10T02:31:30 sampled_by=0.4.0.5 listed=1 confirmed_on=2019-08-06T13:19:07 confirmed_idx=4 pb_circ_attempts=2.000000 pb_circ_successes=2.000000 pb_collapsed_circuits=2.000000 pb_timeouts=2.000000
+Guard in=default rsa_id=A772AEB7D39CD578583CF0DDA708B252AB6EA048 nickname=finn sampled_on=2019-08-06T03:41:36 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=F6740DEABFD5F62612FA025A5079EA72846B1F67 nickname=poiuty sampled_on=2019-08-08T19:32:05 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=4503807A397BF69A2B70A478F51A0A33A5C9525C nickname=MangRelay sampled_on=2019-08-09T18:30:59 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=62987F3DBB55EA1A487A659BE232982DA3439B2F nickname=Juno sampled_on=2019-08-08T21:17:59 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=46E8EA3275AB9BE2AA944F7FB0EBE2519E9590D6 nickname=flowjob09 sampled_on=2019-08-10T11:24:20 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=935F589545B8A271A722E330445BB99F67DBB058 nickname=Multivac0 sampled_on=2019-08-07T12:00:51 sampled_by=0.4.0.5 listed=1 confirmed_on=2019-08-04T03:58:41 confirmed_idx=2
+Guard in=default rsa_id=2F1030CEFB1AC0578624FAF087B4DC2F240ACA2A nickname=servbr10 sampled_on=2019-08-12T20:38:59 sampled_by=0.4.0.5 listed=1 confirmed_on=2019-08-09T20:35:22 confirmed_idx=1 pb_use_attempts=5.000000 pb_use_successes=5.000000 pb_circ_attempts=10.000000 pb_circ_successes=10.000000 pb_successful_circuits_closed=10.000000
+Guard in=default rsa_id=EC84196FB950E695FA1E58489787256C9EBB15E4 nickname=Horatius sampled_on=2019-08-08T08:16:47 sampled_by=0.4.0.5 unlisted_since=2019-08-09T12:02:05 listed=0
+Guard in=default rsa_id=02D10F351A45C6470B795D5AB29DB44B4F5A9F9E nickname=DobbyIsFree sampled_on=2019-08-10T00:46:59 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=D10C82E275A2B0121CF4075C92687F0786A72892 nickname=Buster sampled_on=2019-08-11T18:20:06 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=7A3E534C033E3836BD5AF223B642853C502AB33A nickname=Unnamed sampled_on=2019-08-07T09:17:17 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=6BD07197EC4530DA189154F21FD23A72BF34F66D nickname=wuerfeltornode sampled_on=2019-08-10T19:37:02 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=CEE804FA03A87A65CAA6BCB3A250B5ED923C08BD nickname=FSF sampled_on=2019-08-04T23:44:27 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=85EB1F723654960D6A8EEB9617494E22A52FD044 nickname=larissa sampled_on=2019-08-08T06:16:11 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=7E8BC43AE75EAE16D7EC4676F4A5C355F454B809 nickname=minotorus sampled_on=2019-08-05T08:52:47 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=D1E706B9021A0BF8E9663DB207D9D9EC03A70DAC nickname=bradpit sampled_on=2019-08-11T10:48:39 sampled_by=0.4.0.5 listed=1 confirmed_on=2019-08-10T12:03:43 confirmed_idx=0 pb_use_attempts=15.000000 pb_use_successes=13.000000 pb_circ_attempts=267.000000 pb_circ_successes=260.000000 pb_successful_circuits_closed=240.000000 pb_collapsed_circuits=18.000000 pb_unusable_circuits=2.000000 pb_timeouts=10.000000
+Guard in=default rsa_id=D6F05487A3D1C2F7E5870C71F0C718A7B0E00F47 nickname=Unnamed sampled_on=2019-08-11T01:39:29 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=4EB55679FA91363B97372554F8DC7C63F4E5B101 nickname=torpidsDEisppro sampled_on=2019-08-12T09:07:24 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=58A9921DD0A1389356634625C5B14ACC1194A95C nickname=iblech sampled_on=2019-08-05T06:17:14 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=46F7E6C305E968D455214A154A67920C4E27D873 nickname=martinsrelay sampled_on=2019-08-13T00:22:20 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=6565F31D9EC0C7DFFEA1920BE3BA4C73EF35B5C4 nickname=oscar sampled_on=2019-08-10T08:44:51 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=AE84D29935A19E49E0270224E210E4F04134A7E8 nickname=ElectricWizzard sampled_on=2019-08-12T07:41:53 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=CE863C22AD5ABBEAF606AE35A22781C409D895E5 nickname=mj4 sampled_on=2019-08-04T17:50:44 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=1B3E48D75E7F7E61D1B9BBE24BA15A38B454380D nickname=TheBestRelayNick3 sampled_on=2019-08-12T09:26:21 sampled_by=0.4.0.5 listed=1 confirmed_on=2019-08-10T04:55:10 confirmed_idx=3 pb_use_attempts=1.000000 pb_use_successes=1.000000 pb_circ_attempts=5.000000 pb_circ_successes=5.000000 pb_successful_circuits_closed=5.000000
+TorVersion Tor 0.4.0.5 (git-bf071e34aa26e096)
+LastWritten 2019-08-13 21:05:19
+TotalBuildTimes 152
+CircuitBuildAbandonedCount 2
+CircuitBuildTimeBin 325 7
+CircuitBuildTimeBin 375 5
+CircuitBuildTimeBin 425 4
+CircuitBuildTimeBin 475 2
+CircuitBuildTimeBin 525 3
+CircuitBuildTimeBin 575 4
+CircuitBuildTimeBin 625 3
+CircuitBuildTimeBin 825 3
+CircuitBuildTimeBin 875 1
+CircuitBuildTimeBin 1025 2
+CircuitBuildTimeBin 1225 1
+CircuitBuildTimeBin 1275 6
+CircuitBuildTimeBin 1325 17
+CircuitBuildTimeBin 1375 11
+CircuitBuildTimeBin 1425 10
+CircuitBuildTimeBin 1475 7
+CircuitBuildTimeBin 1525 5
+CircuitBuildTimeBin 1575 4
+CircuitBuildTimeBin 1625 2
+CircuitBuildTimeBin 1675 5
+CircuitBuildTimeBin 1725 2
+CircuitBuildTimeBin 1775 1
+CircuitBuildTimeBin 1925 3
+CircuitBuildTimeBin 1975 2
+CircuitBuildTimeBin 2025 2
+CircuitBuildTimeBin 2075 5
+CircuitBuildTimeBin 2125 8
+CircuitBuildTimeBin 2175 1
+CircuitBuildTimeBin 2225 2
+CircuitBuildTimeBin 2275 1
+CircuitBuildTimeBin 2375 1
+CircuitBuildTimeBin 2525 2
+CircuitBuildTimeBin 2625 1
+CircuitBuildTimeBin 2675 1
+CircuitBuildTimeBin 2875 1
+CircuitBuildTimeBin 3025 1
+CircuitBuildTimeBin 3125 1
+CircuitBuildTimeBin 3475 1
+CircuitBuildTimeBin 3525 1
+CircuitBuildTimeBin 3625 1
+CircuitBuildTimeBin 3725 2
+CircuitBuildTimeBin 4325 1
+CircuitBuildTimeBin 6875 1
+CircuitBuildTimeBin 9225 3
+CircuitBuildTimeBin 9275 1
+CircuitBuildTimeBin 9375 1
+CircuitBuildTimeBin 13225 1
+MinutesSinceUserActivity 20
+Dormant 0
